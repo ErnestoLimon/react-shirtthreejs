@@ -471,5 +471,5 @@ export default defineConfig({
       }
     }),
   ],
- base: "https://ErnestoLimon.github.io/ErnestoLimon.github.io/"
+ base: "https://ErnestoLimon.github.io/react-shirtthreejs/"
 });
